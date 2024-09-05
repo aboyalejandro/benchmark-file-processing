@@ -1,4 +1,4 @@
-# 🔎 File Reading Benchmark
+# 🔎 File Processing Benchmark
 
 This project provides a comprehensive benchmark for comparing the performance of different file formats (CSV, Parquet, and Arrow) and data processing libraries (Polars, DuckDB, and Pandas) in Python.
 
