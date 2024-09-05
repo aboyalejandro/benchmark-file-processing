@@ -39,7 +39,7 @@ You can also check output screenshots in the repo or view yours in the terminal 
 
 ## 📊 Results:
 
-| Amount of rows | Tool | CSV (secs) | Parquet (secs) | Arrow (secs) |
+| Rows | Tool | CSV (secs) | Parquet (secs) | Arrow (secs) |
 |----------------|------|----------|--------------|------------|
 | 50000 | Polars | 0.0080 | 0.0072 | 0.0038 |
 | 100000 | Polars | 0.0111 | 0.0126 | 0.0073 |
