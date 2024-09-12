@@ -3,3 +3,4 @@ duckdb
 pandas
 pyarrow
 faker
+duckdb[arrow]
