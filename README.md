@@ -38,6 +38,8 @@ This command will:
 
 You can check the `.csv` files generated in the `output` folder.
 
+#### Also, you can read conclusions in [🗂️ Pandas vs. Polars vs. DuckDb. Who "wins"?](https://thepipeandtheline.substack.com/p/pandas-vs-polars-vs-duckdb-who-wins)
+
 ### 😎 [Follow me on Linkedin](https://www.linkedin.com/in/alejandro-aboy/)
 - Get tips, learnings and tricks for your Data career!
 
